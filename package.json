@@ -1,0 +1,23 @@
+{
+  "name": "translinkfb",
+  "version": "1.0.0",
+  "description": "replies information about bus schedule through fb message",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jason-wong-9/TranslinkFB.git"
+  },
+  "author": "Jason Wong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jason-wong-9/TranslinkFB/issues"
+  },
+  "homepage": "https://github.com/jason-wong-9/TranslinkFB#readme",
+  "dependencies": {
+    "facebook-chat-api": "^1.0.7"
+  }
+}
